@@ -7,5 +7,5 @@ make install
 a wcześniej:
 
 * skołuj kompilator (xcode na macu, build-essential na ubuntu)
-* zainstaluj autotoolsy (brew install automake autoconf libtool na macu, automake autoconf libtool na ubuntu)
+* zainstaluj autotoolsy (brew install automake autoconf libtool pkg-config na macu, automake autoconf libtool pkg-config na ubuntu)
 * zainstaluj glib-2.0 (brew install glib na macu, libglib2.0-dev na ubuntu)
